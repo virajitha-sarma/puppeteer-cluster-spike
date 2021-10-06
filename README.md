@@ -1,5 +1,7 @@
 # puppeteer-cluster-spike
-To run the server: node app-cluster-boreas.js
+To run the server: 
+1. npm install
+2. node app-cluster-boreas.js
 
 Url to generate PDF:  http://localhost:3200/pdf?target=https://app.k8s.development.boreas.cloud
 PDF is generated for the "target" request param
